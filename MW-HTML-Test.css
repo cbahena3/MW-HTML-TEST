@@ -1,0 +1,32 @@
+.Nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  max-width: 680px;
+  margin: auto;
+  padding: 10px;
+}
+
+img {
+  max-width: 680px;
+}
+
+.Button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
+
+a {
+  color: #0000EE;
+}
